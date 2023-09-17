@@ -1,10 +1,10 @@
 import moment from "moment";
 
 const now = moment();
+console.log(now);
 
 // Praktek array
 const users = ["Rizki Agus", "Muhammad Rizal", "Agus Salim"];
-
 console.log(users);
 
 // Praktek object
@@ -14,7 +14,6 @@ const product = {
   price: 26900000,
   available: true,
 };
-
 console.log(product);
 
 // Praktek perulangan
@@ -26,5 +25,4 @@ for (const user of users) {
 function add(a, b) {
   return a + b;
 }
-
 console.log(add(12, 8));
