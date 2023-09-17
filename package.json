@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "using_libraries_in_nodejs_projects",
+  "version": "1.0.0",
+  "description": "Untuk Tugas MBKM Blockchain",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "momentjs": "^2.0.0"
+  }
+}
